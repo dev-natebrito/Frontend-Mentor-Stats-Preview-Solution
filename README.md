@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/frontendmentorstatspreviewsolution-77zvWwebO)
+- Solution URL: [Click here to see the Solution](https://www.frontendmentor.io/solutions/frontendmentorstatspreviewsolution-77zvWwebO)
 
 
 ## My process
